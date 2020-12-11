@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fexyler</h1>
 <h3 align="center">A passionate developer from Turkey. Learning how to do user-friendly websites and actually he knows how to Google.</h3>
 
-- 🔭 I’m currently working on [Malwation STS](sts.malwation.com)
+- 🔭 I’m currently working on [Malwation STS](https://sts.malwation.com)
 
 - 🌱 I’m currently learning **React, NodeJS, CI/CD**
 
