@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/batuhan_isildak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" alt="batuhan_isildak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/batuhanisildak" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="batuhanisildak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/batuhanisildak" target="blank"><img align="center" src="https://4.bp.blogspot.com/-CQh-IGKtM2Y/XE9D2ReVFbI/AAAAAAAAHcU/SMBvdgTWLu0VjCkIDAoBWCGYhld-GxB0QCK4BGAYYCw/s1600/icon-linkedin.png" alt="batuhanisildak" height="30" width="40" /></a>
 </p>
 
 
