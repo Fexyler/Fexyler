@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, NodeJS and Mongo**
 
-- 📫 How to reach me **batuhanisildak@sabanciuniv.edu**
+- 📫 How to reach me **batuhan.isildak@malwation.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
