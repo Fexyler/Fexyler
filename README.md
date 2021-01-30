@@ -16,4 +16,3 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fexyler&show_icons=true&theme=radical" alt="fexyler" /></p>
