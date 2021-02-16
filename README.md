@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **batuhan.isildak@malwation.com**
 
+
+![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fexyler&count_private=true&show_icons=true&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/batuhan_isildak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" alt="batuhan_isildak" height="30" width="40" /></a>
