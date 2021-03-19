@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fexyler</h1>
 <h3 align="center">A passionate developer from Turkey. Learning how to do user-friendly websites and actually he knows how to Google.</h3>
 
-- 🌱 I’m currently learning **React, NodeJS, CI/CD**
+- 🌱  I’m currently learning **React, NodeJS, CI/CD**
 
-- 💬 Ask me about **React, NodeJS and Mongo**
+- 💬  Ask me about **React, NodeJS and Mongo**
 
-- 📫 How to reach me **batuhan.isildak@malwation.com**
+- 📫  How to reach me **batuhan.isildak@malwation.com**
 
 
 ![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fexyler&count_private=true&show_icons=true&theme=radical)
