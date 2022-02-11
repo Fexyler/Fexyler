@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fexyler</h1>
 <h3 align="center">A passionate developer from Turkey. Learning how to create user-friendly websites and actually he knows how to Google.</h3>
 
-- 🌱  I’m currently learning **React, NodeJS, CI/CD**
 
 - 💬  Ask me about **React, NodeJS and Mongo**
 
